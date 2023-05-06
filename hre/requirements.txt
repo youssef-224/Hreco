@@ -1,3 +1,4 @@
+pip install --upgrade pip
 absl-py==1.4.0
 aniso8601==9.0.1
 astunparse==1.6.3
